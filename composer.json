@@ -1,0 +1,13 @@
+{
+    "name": "maax101/maax",
+    "require": {
+        "yandex/geo": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "maax101",
+            "email": "belous.maxim@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
